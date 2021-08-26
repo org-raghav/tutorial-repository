@@ -20,3 +20,5 @@ console.log(secondName);
 
 const [...rest]  = arraowFunctionExp();
 console.log(rest);
+
+console.log("this is a test message");
